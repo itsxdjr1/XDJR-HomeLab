@@ -1,18 +1,16 @@
 # XDJR-HomeLab
 # Personal Homelab
 
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/241676aa-34b4-4448-925d-854ec45470c8" />
+
 This repository documents my personal homelab and the projects I have built to gain hands-on experience with IT infrastructure, networking, virtualization, cybersecurity, monitoring, and automation.
 
-*A lot of the finer details here were summarized with AI, but I also mixed in my own writing*
+*I used AI for the summaries, finer details, and the cover photo. For more important details, I wrote myself*
 
 The lab gives me an environment where I can learn, build, and accidentally mess up without blowing up real systems. Gives me great ideas of what to do and what not to do in the real world. Also is practical (sometimes).
 
-Here's the pic of the beast:
-
-<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/241676aa-34b4-4448-925d-854ec45470c8" />
 
 
-I know it's overkill, but I wanted experience with enterprise hardware. The switch in this picture has been upgraded.
 
 ## Lab Overview
 
