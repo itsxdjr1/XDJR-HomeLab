@@ -117,7 +117,7 @@ Caddy handles HTTPS and forwards requests to the appropriate backend service.
 
 ## HPE iLO and Redfish Automation
 
-I also built an Android application that communicates with the **HPE iLO 4 Redfish API** on my DL120 Gen9.
+I (aka. Gemini, it did way better than my programming would've) also built an Android application that communicates with the **HPE iLO 4 Redfish API** on my DL120 Gen9.
 
 The application allows me to remotely control the server's power state from my phone.
 
@@ -187,14 +187,6 @@ This environment is currently **planned and not yet fully implemented**.
 * HPE iLO
 * Virtual machines
 * Internal services
-
-### Automation and Development
-
-* REST APIs
-* Redfish
-* Android development
-* Scripting
-* Service automation
   
 
 ## Purpose
