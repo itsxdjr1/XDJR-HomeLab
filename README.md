@@ -7,6 +7,12 @@ This repository documents my personal homelab and the projects I have built to g
 
 The lab gives me an environment where I can learn, build, and accidentally mess up without blowing up real systems. Gives me great ideas of what to do and what not to do in the real world. Also is practical (sometimes).
 
+Here's the pic of the beast:
+
+<img width="2078" height="1512" alt="image" src="https://github.com/user-attachments/assets/2a144d05-3915-4987-8c23-ecb8e8dc85dd" />
+
+I know it's overkill, but I wanted experience with enterprise hardware. The switch in this picture has been upgraded.
+
 ## Lab Overview
 
 My homelab currently includes several physical servers, network infrastructure, virtual machines, centralized logging, internal DNS, remote access, and custom automation.
