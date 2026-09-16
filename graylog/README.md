@@ -3,6 +3,8 @@
 ## Overview
 I deployed Graylog as a centralized SIEM for my homelab to collect and monitor logs from Windows endpoints, Proxmox, and my MikroTik router.
 
+Again, this isn't very practical for my homelab as it's private, but for learning it was amazing!
+
 ## Architecture
 - Windows 10/11 → Graylog Sidecar + Winlogbeat
 - MikroTik → Syslog
@@ -20,13 +22,12 @@ I deployed Graylog as a centralized SIEM for my homelab to collect and monitor l
 
 ## Screenshots
 
-<img width="3822" height="1940" alt="image" src="https://github.com/user-attachments/assets/41140062-e877-4bbe-8de4-68771a600191" />
-
+<img width="1760" height="894" alt="image" src="https://github.com/user-attachments/assets/bda462cf-896f-4b47-8d2d-a6a4fa55c290" />
 
 ## What I Learned
 - Windows Event IDs and logon types
 - Graylog pipelines and streams
 - Winlogbeat / Sidecar configuration
-- Alert tuning
+- Alert tuning (very annoying)
 - Troubleshooting duplicate events
 - Centralized logging architecture
