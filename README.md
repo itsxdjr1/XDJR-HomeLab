@@ -9,7 +9,8 @@ The lab gives me an environment where I can learn, build, and accidentally mess 
 
 Here's the pic of the beast:
 
-<img width="2078" height="1512" alt="image" src="https://github.com/user-attachments/assets/2a144d05-3915-4987-8c23-ecb8e8dc85dd" />
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/241676aa-34b4-4448-925d-854ec45470c8" />
+
 
 I know it's overkill, but I wanted experience with enterprise hardware. The switch in this picture has been upgraded.
 
